@@ -1,0 +1,11 @@
+{
+  "name": "cryptowatch",
+  "version": "1.0.0",
+  "description": "Local application for monitoring markets and profit/loss",
+  "main": "cryptowatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Bobadilla",
+  "license": "MIT"
+}
