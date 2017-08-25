@@ -2,15 +2,18 @@
   "name": "cryptowatch",
   "version": "1.0.0",
   "description": "Local application for monitoring markets and profit/loss",
-  "main": "cryptowatch.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mike Bobadilla",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "dotenv": "^4.0.0",
-    "node-fetch": "^1.7.2"
+    "express": "^4.15.4",
+    "node-fetch": "^1.7.2",
+    "socket.io": "^2.0.3"
   },
   "devDependencies": {
     "eslint": "^4.5.0",
