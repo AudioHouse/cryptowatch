@@ -12,3 +12,5 @@ My goal is to create a local app that anyone can use to monitor and make trades 
 `Just started it`
 
 `Test Commit`
+
+`Should be on dev branch only`
