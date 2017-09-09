@@ -10,5 +10,3 @@ My goal is to create a local app that anyone can use to monitor and make trades 
 ## Status
 
 `Just started it`
-
-`Test Commit`
